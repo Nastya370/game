@@ -25,5 +25,5 @@ while team1 and team2:
         print('Команда 2 победила')
         break
 
-
+# test
 
